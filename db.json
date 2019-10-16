@@ -1,13 +1,15 @@
-[{
-		"id": 1,
-		"title": "Flowmeter Tutorial",
-		"url": "https://support.google.com/chrome/?hl=en-GB#topic=7438008",
-		"thumbnailUrl": "https://www.gstatic.com/images/branding/product/1x/chrome_64dp.png"
-	},
-	{
-		"id": 2,
-		"title": "Second Tutorial",
-		"url": "https://support.google.com/chrome/?hl=en-GB#topic=7438008",
-		"thumbnailUrl": "https://www.gstatic.com/images/branding/product/1x/chrome_64dp.png"
-	}
-]
+{
+	"tutorials": [{
+			"id": 1,
+			"title": "Flowmeter Tutorial",
+			"url": "https://support.google.com/chrome/?hl=en-GB#topic=7438008",
+			"thumbnailUrl": "https://www.gstatic.com/images/branding/product/1x/chrome_64dp.png"
+		},
+		{
+			"id": 2,
+			"title": "Second Tutorial",
+			"url": "https://support.google.com/chrome/?hl=en-GB#topic=7438008",
+			"thumbnailUrl": "https://www.gstatic.com/images/branding/product/1x/chrome_64dp.png"
+		}
+	]
+}
